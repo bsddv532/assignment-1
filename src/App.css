@@ -1,5 +1,7 @@
 .App {
   text-align: center;
+  background-image: radial-gradient(ellipse, pink 50%,rgb(67, 165, 165));
+  height: 100vh;
 }
 
 .App-logo {
@@ -36,3 +38,4 @@
     transform: rotate(360deg);
   }
 }
+
